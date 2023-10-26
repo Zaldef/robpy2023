@@ -1,1 +1,2 @@
-# 22 é nordeste
+import numpy as np
+import RobPy as rp
